@@ -1,0 +1,199 @@
+
+.blcok {
+   height: 851px;
+
+}
+header{
+   position: relative;
+   z-index: 100;
+
+}
+.header__nav {
+   height: 53px;
+   max-height: 53px;
+   min-height: 32px;
+
+background-color: #212121;
+   
+}
+.nav {
+
+}
+.nav__list { 
+      display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.nav__item { 
+   margin: 15px 0 0 0 ;
+padding: 0 45px  ; 
+border-right: 2px dotted #000000;
+height: 31px;
+
+
+}
+.nav__link{
+     color: #fff; 
+position: relative;
+top: 25%;
+}
+.nav__link a{
+   
+   font-size: 15px;
+   font-weight: 300;
+   line-height: 15px;
+   letter-spacing: 0px;
+   text-align: center;
+   
+}
+.nav__link_not {
+   border-right: none;
+   font-size: 15px;
+   font-weight: 300;
+   line-height: 15px;
+   letter-spacing: 0px;
+   text-align: center;
+   color: #fff; 
+   position: relative;
+top: 25%;
+}
+.bleck {
+   width: 100%;
+   height: 87px;
+   min-height: 62px;
+   min-width: 322px;
+   background: #00000071;
+ 
+   
+}
+.bleck__info {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   justify-content: space-around;
+
+   color: #fff;
+   position: relative;
+   top: 12px;
+
+}
+.uber777 {
+ 
+}
+.uber777 p{
+margin: 10px 0 0 0;
+}
+.number {
+
+   display: flex;
+   height: 60px;
+}
+.callme {
+margin: 0 20px 0 0 ;
+}
+.callme p{
+
+   font-size: 12px;
+   font-weight: 300;
+   line-height: 14px;
+   letter-spacing: 0px;
+   text-align: right;
+   
+}
+.callme span{
+
+font-size: 22px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0px;
+text-align: center;
+
+}
+.number__btn {
+   width: 172px;
+   min-width: 110px;
+   min-height: 22px;
+height: 46px;  
+ font-size: 14px;
+
+
+}
+.btn {
+   background: linear-gradient(0deg, #1EACC7 0%, #4CE2FF 100%);
+
+
+color: #fff;
+   font-weight: 400;
+   line-height: 46px;
+   letter-spacing: 0px;
+   text-align: center;
+   text-transform: uppercase;
+border-radius: 4px;
+
+}
+
+.title {
+   position: relative;
+   top: 90px;
+}
+.title__text {
+   color: #ffffff;
+
+}
+.title__text h2{
+   
+   
+   font-size: 60px;
+   font-weight: 900;
+   line-height: 24px;
+line-height: 50px;
+   text-align: center;
+ 
+ 
+   
+
+   
+}
+.title__text span{ 
+
+   font-size: 36px;
+   font-weight: 700;
+   line-height: 48px;
+   letter-spacing: 0px;
+   text-align: center;
+}
+.text__txt {
+
+ margin: 30px 0 100px 0 ;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+
+}
+.txt__min {
+   margin: 20px 0 0 0;
+}
+.text__btn {
+   width: 259px;
+   min-width: 210px;
+height: 63px;
+min-height: 50px;
+
+   display: block;
+   margin: 0 auto;
+}
+.btn {
+}
+.block__img {
+   max-width: 100%;
+  height: 799px;
+   min-width: 320px;
+   min-height: 400px;
+background: url('../img/uber_bg.png') center no-repeat;
+
+}
+
+

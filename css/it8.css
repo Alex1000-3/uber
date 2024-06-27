@@ -1,0 +1,127 @@
+footer{
+
+position: relative;
+height: 136px;
+display: flex;
+align-items: center;
+position: relative;
+}
+.circles {
+   position: absolute;
+   display: flex;
+   justify-content: space-between;
+
+height: 35px;
+width: 200px;
+
+left: 20px;
+}
+.circle__black {
+
+
+   width: 35px;
+   height: 35px;
+   border-radius: 50%;
+   background-color: #070716;
+}
+.facebook {
+
+   width: 35px;
+   height: 35px;
+   border-radius: 50%;
+   background: url('../img/facebook.png') center no-repeat;
+}
+.twitter {
+
+   width: 35px;
+   height: 35px;
+   border-radius: 50%;
+   background: url('../img/twitter.png') center no-repeat;
+}
+.linkedin {
+
+   width: 35px;
+   height: 35px;
+   border-radius: 50%;
+   background: url('../img/linkedin.png') center no-repeat;
+}
+.instagram {
+   width: 35px;
+   height: 35px;
+   border-radius: 50%;
+   background: url('../img/instagram\ \(1\).png') center no-repeat;
+}
+
+.footer__box {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+position: relative;
+/* top: 60px; */
+/* height: 100.5px; */
+
+}
+.box__line {
+   width: 301px;
+height: 7px;
+background-color: #1FBAD6;
+border-radius: 20px;
+/* margin: 0 0 10px ; */
+/* position: absolute; */
+}
+.footer__djdj {
+   position: relative;
+   top: 20px;
+
+/* height: 133.5px; */
+   /* display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center; */
+}
+.footer__clearly a{
+   font-family: Roboto;
+font-size: 15px;
+font-weight: 300;
+margin: 0 18px;
+letter-spacing: 0px;
+text-align: left;
+color: #070716;
+text-transform: uppercase;
+}
+.footer__clearly {
+   margin: 29px 0 5px;
+
+
+}
+.footer__notclear {
+   margin: 7px 0 20px;
+}
+.footer__notclear a{
+   font-family: Roboto;
+font-size: 11px;
+font-weight: 300;
+margin: 0 10px;
+letter-spacing: 0px;
+text-align: left;
+color: #999999;
+text-transform: uppercase;
+}
+.bolyu {
+   font-family: Roboto;
+font-size: 11px;
+font-weight: 400;
+margin: 0 0 40px 0;
+letter-spacing: 0px;
+text-align: center;
+color: #1FBAD6;
+text-transform: uppercase;
+
+}
+
+.footer__img {
+   position: absolute;
+
+right: 20px;
+}

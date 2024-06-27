@@ -1,0 +1,183 @@
+
+.block2 {
+   height: 920px;
+   max-height: 2404px;
+ 
+}
+
+.block2__info {
+   position: relative;
+   top: 20px;
+}
+.block2__info h3{
+   font-family: Roboto;
+font-size: 38px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0px;
+text-align: center;
+
+color: #222222;
+margin: 20px 0 0px ;
+}
+.info__blakc {
+   background-color: #000000;
+   display: block;
+   margin: 0  auto;
+      color: #fff;
+}
+.mininfo p{
+
+text-transform: uppercase;
+   font-size: 11px;
+font-weight: 500;
+   line-height: 11px;
+   letter-spacing: 0px;
+   text-align: center;
+
+}
+.mininfo {
+      display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 115px;
+   min-width: 110px;
+   min-height: 22px;
+   height: 24px;
+
+
+
+}
+.block2__list {
+}
+.list__bilu {
+   display: flex;
+
+
+flex-wrap: wrap;
+ justify-content: space-between  ;
+
+   width: 80%;
+   max-width: 1064px;
+   min-width: 322px;
+position: relative;
+
+left: 25%;
+
+}
+
+.list__bilu li{
+   position: relative;
+}
+
+.list__bilu p{
+
+
+   width: 371px;
+   height: 150px;
+   min-width:298px;
+   min-height: 162px;
+
+
+font-size: 15px;
+font-weight: 300;
+line-height: 21px;
+letter-spacing: 0px;
+text-align: left;
+margin: 30px 0 0 0;
+
+
+color:#202020 ;
+}
+
+li p{
+   display: block;
+   margin: auto 0;
+}
+.list__bilu span{
+
+font-size: 17px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0px;
+text-align: left;
+color: #1EACC7;
+
+}
+.bilu__picture {
+   width: 116px;
+height: 116px;
+min-width: 103px;
+min-height: 103px;
+border-radius: 50%;
+   background-color: #1EACC7;
+position: absolute;
+top: 13%;
+ left: -140px;
+}
+.icon {
+background: url('../img/Иконка.png') center no-repeat ;
+width: 116px;
+height: 116px;
+min-width: 103px;
+min-height: 103px;
+border-radius: 50%;
+}
+.icon1{
+   background: url('../img/Иконка\ \(1\).png') center no-repeat ;
+width: 116px;
+height: 116px;
+min-width: 103px;
+min-height: 103px;
+border-radius: 50%;
+}
+.icon2 {
+   background: url('../img/Иконка\ \(2\).png') center no-repeat ;
+width: 116px;
+height: 116px;
+min-width: 103px;
+min-height: 103px;
+border-radius: 50%;
+}
+.icon3 {
+   background: url('../img/Иконка\ \(3\).png') center no-repeat ;
+width: 116px;
+height: 116px;
+min-width: 103px;
+min-height: 103px;
+border-radius: 50%;
+ 
+}
+.icon4{
+   background: url('../img/Иконка\ \(4\).png') center no-repeat ;
+width: 116px;
+height: 116px;
+min-width: 103px;
+min-height: 103px;
+border-radius: 50%;
+
+}
+.icon5 {
+   background: url('../img/Иконка\ \(5\).png') center no-repeat ;
+width: 116px;
+height: 116px;
+min-width: 103px;
+min-height: 103px;
+border-radius: 50%;
+}
+.icon6 {
+   background: url('../img/Иконка\ \(6\).png') center no-repeat ;
+width: 116px;
+height: 116px;
+min-width: 103px;
+min-height: 103px;
+border-radius: 50%;
+}
+.icon7 {
+   background: url('../img/Иконка\ \(7\).png') center no-repeat ;
+width: 116px;
+height: 116px;
+min-width: 103px;
+min-height: 103px;
+border-radius: 50%;
+}
